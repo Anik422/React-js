@@ -1,3 +1,13 @@
+
+
+<img
+  src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
