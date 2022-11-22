@@ -35,7 +35,7 @@ class MainComponent extends Component {
             book: books
         });
 
-    };
+    };   
 
     render() {
         let books = null
